@@ -1,5 +1,3 @@
-Here are concrete before/after examples you can put directly on a slide.
-
 **1. Vague vs specific prompting**
 
 Vague (what most first-timers type): "Make some notes on data structures."
